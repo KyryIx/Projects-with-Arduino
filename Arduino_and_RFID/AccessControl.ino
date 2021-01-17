@@ -1,7 +1,7 @@
 /**
  * -----------------------------------------------------------------------------------------
- * This is a MFRC522 library (https://github.com/miguelbalboa/rfid) example
- * to ACCESS CONTROL.
+ * This uses MFRC522 library (https://github.com/miguelbalboa/rfid)
+ * Example to ACCESS CONTROL by Everton P. Cruz (www.everton.mat.br)
  * 
  * Typical pin layout used to module RFID:
  * -----------------------------------------------------------------------------------------
