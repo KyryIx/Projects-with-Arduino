@@ -24,6 +24,8 @@ O projeto é visto a seguir nas visualizações em protoboard e no esquemático
 
 Este protótipo foi criado para exibir o funcionamento de dados enviados por uma ligação entre celulares.
 
+[![Visão componentes](./MT8870_with_Arduino_prototype_components.png "Visão componentes")](./MT8870_with_Arduino_prototype_components.png "Visão componentes")
+
 [![Visão protótipo](./MT8870_with_Arduino_prototype.png "Visão protótipo")](./MT8870_with_Arduino_prototype.png "Visão protótipo")
 
 ### Funcionamento
